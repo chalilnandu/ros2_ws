@@ -1,0 +1,33 @@
+[0.574s] Invoking command in '/home/admin-2/batch2/ros2_ws/src/robot_controller_sept03': PYTHONPATH=/home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_controller_sept03 build --build-base /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build install --record /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/install.log --single-version-externally-managed install_data
+[0.801s] running egg_info
+[0.801s] creating ../../build/robot_controller_sept03/robot_controller_sept03.egg-info
+[0.802s] writing ../../build/robot_controller_sept03/robot_controller_sept03.egg-info/PKG-INFO
+[0.802s] writing dependency_links to ../../build/robot_controller_sept03/robot_controller_sept03.egg-info/dependency_links.txt
+[0.802s] writing entry points to ../../build/robot_controller_sept03/robot_controller_sept03.egg-info/entry_points.txt
+[0.802s] writing requirements to ../../build/robot_controller_sept03/robot_controller_sept03.egg-info/requires.txt
+[0.802s] writing top-level names to ../../build/robot_controller_sept03/robot_controller_sept03.egg-info/top_level.txt
+[0.802s] writing manifest file '../../build/robot_controller_sept03/robot_controller_sept03.egg-info/SOURCES.txt'
+[0.804s] reading manifest file '../../build/robot_controller_sept03/robot_controller_sept03.egg-info/SOURCES.txt'
+[0.804s] writing manifest file '../../build/robot_controller_sept03/robot_controller_sept03.egg-info/SOURCES.txt'
+[0.805s] running build
+[0.805s] running build_py
+[0.805s] creating /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build
+[0.805s] creating /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build/lib
+[0.805s] creating /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build/lib/robot_controller_sept03
+[0.805s] copying robot_controller_sept03/__init__.py -> /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build/lib/robot_controller_sept03
+[0.805s] running install
+[0.805s] running install_lib
+[0.806s] creating /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/lib/python3.10/site-packages/robot_controller_sept03
+[0.806s] copying /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build/lib/robot_controller_sept03/__init__.py -> /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/lib/python3.10/site-packages/robot_controller_sept03
+[0.807s] byte-compiling /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/lib/python3.10/site-packages/robot_controller_sept03/__init__.py to __init__.cpython-310.pyc
+[0.807s] running install_data
+[0.807s] creating /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/share/ament_index
+[0.807s] creating /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/share/ament_index/resource_index
+[0.807s] creating /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/share/ament_index/resource_index/packages
+[0.808s] copying resource/robot_controller_sept03 -> /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/share/ament_index/resource_index/packages
+[0.808s] copying package.xml -> /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/share/robot_controller_sept03
+[0.808s] running install_egg_info
+[0.809s] Copying ../../build/robot_controller_sept03/robot_controller_sept03.egg-info to /home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/lib/python3.10/site-packages/robot_controller_sept03-0.0.0-py3.10.egg-info
+[0.810s] running install_scripts
+[0.830s] writing list of installed files to '/home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/install.log'
+[0.857s] Invoked command in '/home/admin-2/batch2/ros2_ws/src/robot_controller_sept03' returned '0': PYTHONPATH=/home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin-2/batch2/ros2_ws/install/robot_controller_sept03/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_controller_sept03 build --build-base /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/build install --record /home/admin-2/batch2/ros2_ws/build/robot_controller_sept03/install.log --single-version-externally-managed install_data
