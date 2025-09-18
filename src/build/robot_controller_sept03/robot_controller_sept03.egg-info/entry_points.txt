@@ -1,3 +1,3 @@
 [console_scripts]
-test_node = robot_controller_sept03.myfirstnode:main
+test_node=robot_controller_sept03.myfirstnode:maindraw_circle = robot_controller_sept03.draw_circle:main
 
